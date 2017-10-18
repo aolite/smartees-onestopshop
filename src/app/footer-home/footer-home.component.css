@@ -1,0 +1,21 @@
+footer {
+  padding: 50px 0;
+  background-color: #f8f8f8;
+}
+
+.footer, .push {
+  clear: both;
+  height: 4em;
+}
+
+p.copyright {
+  margin: 15px 0 0;
+}
+
+a, .navbar-brand, .navbar-default .navbar-nav>li>a {
+  color: #aec251 !important;
+}
+
+a:hover, .navbar-brand:hover, .navbar-default .navbar-nav>li>a:hover {
+  color: #687430 !important;
+}
