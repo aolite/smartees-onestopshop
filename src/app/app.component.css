@@ -28,15 +28,14 @@
 
 .intro-divider {
   width: 400px;
-  border-top: 1px solid #f8f8f8;
-  border-bottom: 1px solid rgba(0,0,0,0.2);
+  border-top: 1px solid  #aec251;
 }
 
 .intro-header {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
-  color: #f8f8f8;
+  color: #687430;
   background-size: cover;
   height: 100%;
 }
