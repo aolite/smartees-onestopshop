@@ -1,0 +1,11 @@
+a, .navbar-brand, .navbar-default .navbar-nav>li>a {
+  color: #aec251 !important;
+}
+
+a:hover, .navbar-brand:hover, .navbar-default .navbar-nav>li>a:hover {
+  color: #687430 !important;
+}
+
+.topnav {
+  font-size: 14px;
+}
