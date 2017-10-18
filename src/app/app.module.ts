@@ -11,12 +11,14 @@ import {AppRoutingModule} from './app-routing/app-routing.module';
 import { AppComponent } from './app.component';
 import { NavHomeComponent } from './nav-home/nav-home.component';
 import { FooterHomeComponent } from './footer-home/footer-home.component';
+import { AppCarousselComponent } from './app-caroussel/app-caroussel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavHomeComponent,
-    FooterHomeComponent
+    FooterHomeComponent,
+    AppCarousselComponent
   ],
   imports: [
     BrowserModule,
