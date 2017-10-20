@@ -1,0 +1,25 @@
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.intro-divider {
+  width: 400px;
+  border-top: 1px solid  #aec251;
+}
+
+.intro-header {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #687430;
+  background-size: cover;
+  height: 100%;
+}
+.into-subheader{
+  text-align: center;
+  color: #687430;
+  background-size: cover;
+  height: 100%;
+}
